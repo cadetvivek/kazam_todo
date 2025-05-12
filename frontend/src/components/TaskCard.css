@@ -50,7 +50,6 @@
     font-size: 1.8rem;
     font-weight: 700;
     margin: 0;
-    font-style: italic;
     letter-spacing: 0.5px;
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
   }
@@ -88,7 +87,7 @@
     border-radius: 8px;
     padding: 0 20px;
     cursor: pointer;
-    font-weight: 600;
+    font-weight: 800;
     transition: var(--transition);
   }
   
