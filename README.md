@@ -1,6 +1,4 @@
-Here’s a professional and well-structured `README.md` for your `kazam_todo` project:
 
----
 
 # Kazam Todo
 
