@@ -113,9 +113,8 @@ Follow these steps to set up the project on your local machine:
 
 | Method | Endpoint        | Description                  |
 |--------|-----------------|------------------------------|
-| POST   | `/tasks`        | Add a new task              |
-| GET    | `/tasks`        | Fetch all tasks             |
-| DELETE | `/tasks/:id`    | Delete a task by ID         |
+| GET    | `//fetchAllTasks`        | Fetch all tasks     |
+
 
 ---
 
